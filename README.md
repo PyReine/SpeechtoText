@@ -1,2 +1,2 @@
 # SpeechtoText
-This model is selected for local usage
+Built the codes to test the speech to text model for local usage
